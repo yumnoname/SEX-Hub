@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Sex Hub",--Tên script
+    logoscript = "102327616098941",--ID Logo Script
+    tacgia = "Seni3"
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
